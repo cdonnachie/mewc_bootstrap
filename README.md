@@ -3,7 +3,7 @@
 ## Getting Started
 
 1. **Download the Latest Release:**
-   - Go to the [Releases Page](https://github.com/cdonnachir/mewc_bootstrap/releases).
+   - Go to the [Releases Page](https://github.com/cdonnachie/mewc_bootstrap/releases).
    - Download the latest `.zip` release file.
 
 2. **Extract the Zip File:**
